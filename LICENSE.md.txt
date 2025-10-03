@@ -1,0 +1,13 @@
+Copyright (c) 2025 narendra-create
+
+Permission is hereby granted, free of charge, to anyone to:
+
+1. Use, fork, and clone this repository for personal, educational, or non-commercial purposes.
+2. Submit pull requests or contribute to this repository.
+
+Restrictions:
+
+1. This code **cannot be used for commercial purposes**, including launching products, selling services, or any profit-making activity, without explicit written permission from the copyright holder.
+2. No warranty is provided. Use at your own risk.
+
+You must always give proper credit to the original author when using or referencing this code.
